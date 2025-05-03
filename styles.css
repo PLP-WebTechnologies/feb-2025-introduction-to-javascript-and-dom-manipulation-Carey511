@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: white;
+    border: 1px solid #ddd;
+}
+
+button {
+    padding: 8px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.styled {
+    color: green;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.new-element {
+    background-color: lightblue;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid blue;
+}
+
+.removable {
+    background-color: lightcoral;
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid red;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
